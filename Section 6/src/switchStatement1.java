@@ -1,0 +1,2 @@
+public class switchStatement1 {
+}
