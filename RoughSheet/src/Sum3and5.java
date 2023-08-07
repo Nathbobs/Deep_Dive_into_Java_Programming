@@ -7,7 +7,7 @@ public class Sum3and5 {
                 sum += i;
                 count++;
                 System.out.println("Found a match " + i);
-            }
+            }..
             if (count == 5){
                 break;
             }
